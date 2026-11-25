@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.bak
+build/
+dist/
+*.spec
+.git/COMMIT_MSG.tmp
+*.lnk
+.DS_Store
+Thumbs.db
+unity/DreamGodGames/Library/
+unity/DreamGodGames/Temp/
+unity/DreamGodGames/Logs/
+unity/DreamGodGames/Obj/
+unity/Build/
+unity/*.log
+assets/psd_import/
